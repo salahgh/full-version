@@ -14,7 +14,7 @@ const themeConfig = {
     contentWidth: 'full', // full, boxed
     menu: {
       isHidden: false,
-      isCollapsed: false
+      isCollapsed: false // hghg
     },
     navbar: {
       // ? For horizontal menu, navbar type will work for navMenu type
